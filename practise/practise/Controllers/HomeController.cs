@@ -10,7 +10,7 @@ namespace practise.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Hello World!!!";
 
             return View();
         }
